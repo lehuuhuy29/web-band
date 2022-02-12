@@ -102,4 +102,12 @@
         font-size: 38px;
     }
 
+    .contact-submit-btn {
+        font-size: 16px;
+    }
+
+    .form-control {
+        font-size: 16px;
+    }
+
 }
