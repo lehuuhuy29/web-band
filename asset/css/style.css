@@ -14,6 +14,8 @@
     display: inline-block;
     border: none;
     outline: none;
+    appearance: none;
+    -webkit-appearance: none;
 }
 
 .btn:hover {
